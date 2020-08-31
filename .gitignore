@@ -1,0 +1,9 @@
+#Virtual Env
+venv/
+
+# Flask stuff:
+instance/*
+# Flask stuff:
+!instance/.gitignore
+.webassets-cache
+
